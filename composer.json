@@ -1,6 +1,7 @@
 {
     "name": "mrterryh/permissions",
-    "description": "",
+    "description": "Tiny Laravel 4 package for handling user roles and permissions.",
+    "keywords": ["laravel", "permissions", "auth", "roles"],
     "authors": [
         {
             "name": "Terry Harvey",
