@@ -14,7 +14,7 @@ class AddRoleIdToUserTable extends Migration {
 	{
 		Schema::table('users', function($table)
 		{
-			$table->integer('role_id')->after('id');
+			$table->integer('role_id')->after('id')->default(0);
 		});
 	}
 
