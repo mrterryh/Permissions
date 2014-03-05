@@ -2,6 +2,7 @@
     "name": "mrterryh/permissions",
     "description": "Tiny Laravel 4 package for handling user roles and permissions.",
     "keywords": ["laravel", "permissions", "auth", "roles"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Terry Harvey",
