@@ -24,4 +24,9 @@ class Role extends \Eloquent
 		$rolePermission->permission_id = $permission->id;
 		$rolePermission->save();
 	}
+	
+	public function deny(\Mrterryh\Permissions\Permission $permission)
+	{
+		$permission->delete();
+	}
 }
