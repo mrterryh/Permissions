@@ -1,3 +1,6 @@
+# IMPORTANT!
+> This package is outdated and no longer maintained. I plan on bringing it back up to date eventually, but until then there are plenty of decent alternatives.
+
 Permissions
 ===========
 
